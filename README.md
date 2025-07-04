@@ -1,1 +1,1 @@
-# Tugas-Akhir
+Sistem ini merupakan proyek Tugas Akhir yang bertujuan untuk memantau aspek kenyamanan termal dari parameter lingkungan yaitu suhu, kelembaban, dan kecepatan angin serta ditambah aspek kualitas udara yaitu kadar CO2. Sistem ini dibangun menggunakan mikrokontroller board **Arduino MKR WiFi 1010**, dan dilengkapi dengan beberapa sensor seperti **DHT11**, **MQ135**, dan **anemometer**.
